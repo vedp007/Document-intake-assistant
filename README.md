@@ -180,7 +180,3 @@ The LLM (even a deterministic mock) could produce malformed field values. Valida
 For an interview demo with a single evaluator session, a database adds complexity without demonstrating anything relevant to the task. See `PRODUCTION_NOTES.md` for how this would be extended.
 
 ---
-
-## Limitations / Production Improvements
-
-See [PRODUCTION_NOTES.md](./PRODUCTION_NOTES.md).
